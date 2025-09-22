@@ -1,5 +1,4 @@
-## Hi there 👋
-
+Computer science engineer with passion for artificial intelligence, simulations and innovation. Hands-on experience on AI pipelines and training.
 <!--
 **AlvarezIglesias/AlvarezIglesias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
