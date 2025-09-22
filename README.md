@@ -1,3 +1,5 @@
+<h1 align="center">Hey there, I'm Álvaro<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+
 Computer science engineer with passion for artificial intelligence, simulations and innovation. Hands-on experience on AI pipelines and training.
 <!--
 **AlvarezIglesias/AlvarezIglesias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
